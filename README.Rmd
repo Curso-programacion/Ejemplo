@@ -7,8 +7,4 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<<<<<< HEAD
 Readme de prueba ahora ya subí un archivo
-=======
-Readme de prueba agregué una linea distinta a la otra
->>>>>>> 6844e64e3291a970e8f2b4b8b4311785531c14a0
